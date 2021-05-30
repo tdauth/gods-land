@@ -14,9 +14,11 @@ Warcraft III: Reforged funmap in which one player is God and can influence the g
 
 ## Features compared to existing Maps
 
+* Not everything God does is done with circles of power but also with abilities.
 * Water areas and ships.
 * God can give players water units like ships.
 * God can give players/units items.
+* God can give players buildings.
 * God can place buildings or destructables.
 * God can ressurrect all trees in an area.
 * Units are not sacrificied by moving through the circle but by being ordered at it.
